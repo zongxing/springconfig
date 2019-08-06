@@ -1,6 +1,5 @@
 server:
   port: 8066
-
 spring:
   application:
     name: spring-config-client  
